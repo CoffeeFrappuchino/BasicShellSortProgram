@@ -25,10 +25,8 @@ int[] ShellSort(int[] array, int size, string arrayName)
     return array;
 }
 
-// entered array
-var array = new int[] { 73, 57, 49, 99, 133, 20, 1 };
 //var expected = new int[] { 1, 20, 49, 57, 73, 99, 133 };
-var SI = new int[] { 8, 3, -2, 9 - 10, -10, -7, 26, 123, 78 };
+var SI = new int[] { 8, 3, -2, 9, -10, -10, -7, 26, 123, 78 };
 var FI = new int[] { -8, -3, 2, -9, 10, 10, 7, -26, -123, -78 };
 var SI1 = new int[] { 363, 356, -180, -111, -471, 450 };
 var FI1 = new int[] { -180, -111, 356, -471, 450, 363 };
